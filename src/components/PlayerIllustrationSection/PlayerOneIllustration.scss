@@ -227,17 +227,17 @@
 
   #istakeholder-currency-1 {
     animation-duration: 3s;
-    animation-name: currency1Animate;
+    animation-name: currency11Animate;
   }
 
   #istakeholder-currency-2 {
     animation-duration: 4s;
-    animation-name: currency2Animate;
+    animation-name: currency12Animate;
   }
 
   #istakeholder-currency-3 {
     animation-duration: 5s;
-    animation-name: currency3Animate;
+    animation-name: currency13Animate;
   }
 
   #istakeholder-cod-1,
@@ -305,7 +305,7 @@
   }
 }
 
-@keyframes currency1Animate {
+@keyframes currency11Animate {
   0% {
     transform: translateX(0%) translateY(0%);
     opacity: 0;
@@ -323,7 +323,7 @@
   }
 }
 
-@keyframes currency2Animate {
+@keyframes currency12Animate {
   0% {
     transform: translateX(0%) translateY(0%);
     opacity: 0;
@@ -337,7 +337,7 @@
   }
 }
 
-@keyframes currency3Animate {
+@keyframes currency13Animate {
   0% {
     transform: translateX(0%) translateY(0%);
     opacity: 0;
