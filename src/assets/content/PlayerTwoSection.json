@@ -1,0 +1,26 @@
+{
+  "alt": true,
+  "illustration": {
+    "title": "Borrower",
+    "description": "A member can borrow money from reserve, based on the prudence units they hold. Repay the interest which is slightly higher than the base reserve growth rate."
+  },
+  "details": {
+    "title": "Borrower, the spender",
+    "subtitle": "Transactions of a borrower",
+    "description": "When you need money for your spending, you borrow from reserve for an interest rate that is usually higher than the base reserve yielding rate.",
+    "items": [
+      {
+        "title": "Borrow money",
+        "description": "A participant when they need money, can take a loan from reserve. Loans usually does not carry any repayment deadlines apart from the interest repayments. But the total loan or liability in the system for you should not exceed your prudence value."
+      },
+      {
+        "title": "Floating interest rate",
+        "description": "There is just one type of loan a person can take for expenditure. Interest rate in this case is floating and it is decided based on a few basis points higher than the reserve's idle growth rate."
+      },
+      {
+        "title": "Excess liability",
+        "description": "At any point in time, total liability of a member should not exceed their ownership. A person can borrow more than this limit, if approved by all other stakeholders. A person can reduce the excess liability by either repaying the debts or by increasing the stake."
+      }
+    ]
+  }
+}

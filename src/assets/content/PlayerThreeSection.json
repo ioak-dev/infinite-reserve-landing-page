@@ -1,0 +1,30 @@
+{
+  "alt": true,
+  "illustration": {
+    "title": "Tax payer",
+    "description": "Tax is a small feed from the expense your members make, that helps to grow your reserve in the long run. Tax is a fixed percent of expense that is collectively accounted on all members. Higher the stake of a member, higher their contribution."
+  },
+  "details": {
+    "title": "Tax payer, a commoner",
+    "subtitle": "Transactions of a Tax payer",
+    "description": "Based on the spendings made by a person on a given month, a certain tax is levied.",
+    "items": [
+      {
+        "title": "Tax based on ownership",
+        "description": "Tax is a form of forced saving by a member. Tax rate is set by the reserve. Based on your ownership, your effective tax rate varies. If you are owning 10% of the total reserve, then your effective tax rate is only 10% of the rate set by reserve (example: reserve tax rate is 15%; your ownership is 20%; then effective tax rate for you is 3%)."
+      },
+      {
+        "title": "Interests on unpaid tax compounds",
+        "description": "Tax payments are charged monthly. Tax payments can be made within an year from the date it is charged. If not paid within an year, it compounds your liability based on the idle growth rate of reserve."
+      },
+      {
+        "title": "Choose between fixed and actual expense",
+        "description": "When you construct your reserve, you can choose on what basis to charge the tax. You can choose it to be as simple as a fixed amount that is same for every person or charge as per the recorded expenses."
+      },
+      {
+        "title": "Expense tracker",
+        "description": "Irrespective of what method you choose to charge the tax, every individual memeber can have their own expense recording system. Sum of all the expenses can be visualized categorically to see a trend over time."
+      }
+    ]
+  }
+}

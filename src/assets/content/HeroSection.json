@@ -1,0 +1,11 @@
+{
+  "title": "Towards an infinite reserve, for your financial needs.",
+  "subtitle": "Infinite reserve model helps you build a monetary reserve, that serves your future financial needs. System lets you see yourself as a business owner, thereby making you understand the time value of money and opportunity costs involved in a transaction.",
+  "caption": "Infinite reserve model (by nature of it's underlying principles) never decreases in value, but only increases.",
+  "illustration": "illustration/hero.svg",
+  "illustration2": "illustration/hero2.svg",
+  "callToAction": {
+    "label": "Build your reserve",
+    "faIcon": "fas fa-play"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "alt": true,
+  "illustration": {
+    "title": "Reserve",
+    "description": "Infinite reserve strives to achieve capital appreciation along with capital preservation. Transaction with the participants are designed to increase cash inflow to reserve."
+  },
+  "details": {
+    "title": "Reserve, the banker",
+    "subtitle": "Properties of the Reserve",
+    "description": "Reserve never takes any amount of risk, apart from the stakeholders' credit risk. Objective of an infinite reserve is to, appreciate valuation of reserve holdings without any intrinsic risk involved.",
+    "items": [
+      {
+        "title": "Capital protection",
+        "description": "Reserve holdings are in the form of risk free sovereign guaranteed deposits, that have low risk and low yield. Interest rate of these holdings are the idle growth of a reserve."
+      },
+      {
+        "title": "Capital appreciation",
+        "description": "Idle funds of the reserve are divested into alternate investment aveneus, that comes with higher return potentials at the cost of higher risk. Higher risk in a reserve is covered by moving the risk of loss to the stakeholder."
+      },
+      {
+        "title": "Stakeholder liability",
+        "description": "An infinite reserve cannot lend to a member, if their liabilities are higher than their ownership (based on the prudence units they hold). Any additional loans, need to be approved by all other members of the reserve."
+      },
+      {
+        "title": "Credit risk",
+        "description": "Reserve is a risk-free entity. The risk it takes is only with the stakeholders. Amount of credit flexibility given to a stakeholder is dependent on the amount of prudence units they hold."
+      }
+    ]
+  }
+}

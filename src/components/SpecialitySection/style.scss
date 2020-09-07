@@ -1,0 +1,42 @@
+.speciality-section {
+  padding-top: 160px;
+  padding-bottom: 160px;
+  .speciality-section--container {
+    display: grid;
+    color: var(--color-foreground-1);
+
+    grid-auto-flow: row;
+    row-gap: 20px;
+    text-align: center;
+    p {
+      line-height: 40px;
+    }
+    .speciality-section--container--heading {
+      color: var(--color-foreground-4);
+      display: flex;
+      justify-self: center;
+    }
+    .speciality-section--container--content {
+      display: grid;
+      justify-content: center;
+      // margin-bottom: 100px;
+      grid-auto-flow: row;
+      row-gap: 40px;
+      align-items: center;
+    }
+  }
+}
+
+.speciality-section--containertile {
+  display: grid;
+  grid-auto-flow: row;
+  align-content: flex-start;
+  row-gap: 10px;
+
+  img {
+    display: flex;
+    justify-self: center;
+    align-self: center;
+    width: 100px;
+  }
+}

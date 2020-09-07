@@ -1,0 +1,26 @@
+{
+  "alt": true,
+  "illustration": {
+    "title": "Investor",
+    "description": "An investor takes a certain amount of money as an investment loan and invests in alternative investments with varying level of risk/reward. Repays fixed amount of interest."
+  },
+  "details": {
+    "title": "Investor, the value seeker",
+    "subtitle": "Transactions of an Investor",
+    "description": "An investor aims to increase the valuation of a reserve by divesting the holdings of reserve into alternate investment avenues.",
+    "items": [
+      {
+        "title": "Investment loan",
+        "description": "When a stakeholder wants to divest the reserve holdings, he/she needs to take an investment loan from reserve. Investment loans carry a fixed interest rate and reserve does not care about the actual investment returns."
+      },
+      {
+        "title": "Delegated risk",
+        "description": "Stakeholder of infinite reserve is expected to be responsible, accountable and takes right amount of risk while investing. When an investment is made by a stakeholder, reserve expects a fixed return out of that. Investor can keep the excess benefit or need to make up for the loss."
+      },
+      {
+        "title": "Graded risk assessment",
+        "description": "When taking an investment loan, you can choose the level of risk associated with the investment. Higher the risk, higher the return rate. Fixed interest charged for aninvestment loan increases, as the risk of investment proposal increase."
+      }
+    ]
+  }
+}

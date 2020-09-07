@@ -1,0 +1,34 @@
+{
+  "title": "Improve your money management forever.",
+  "title2": "Systemetically enforce discipline in your daily finance.",
+  "description": "Here's a few key benefits that you get by using infinite reserve principles.",
+  "dataLeft": [
+    {
+      "faIcon": "icon/hex_precision.svg",
+      "title": "Cover opportunity costs",
+      "description": "When you spend your money on a purchase, you are losing all its future earning potential. Infinite reserve model compensates opportunity cost, by making you repay it as a principal and interest."
+    },
+    {
+      "faIcon": "icon/hex_precision.svg",
+      "title": "Decline in spending habits",
+      "description": "With the reserve model, you are penalized for higher spending in the form of higher taxation. You are made to think twice before you spend on anything that can be deferred."
+    }
+  ],
+  "dataRight": [
+    {
+      "faIcon": "icon/hex_files.svg",
+      "title": "Peer verified transactions",
+      "description": "Every transaction recorded by a person, should be verified by other people in the reserve. You can choose to validate transactions by at least one person or by all people."
+    },
+    {
+      "faIcon": "icon/hex_files.svg",
+      "title": "Pay yourself first",
+      "description": "For all your spending, you need to pay a certain percentage as tax to the reserve. Principle behind this is to pay yourself first, before spending."
+    },
+    {
+      "faIcon": "icon/hex_files.svg",
+      "title": "Part owner of the reserve",
+      "description": "Based on the number of prudence units you hold, your ownership is proportion is implied. You can increase or decrease your ownership by buying or selling prudence units."
+    }
+  ]
+}

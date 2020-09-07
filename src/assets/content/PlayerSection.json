@@ -1,0 +1,30 @@
+{
+  "alt": false,
+  "details": {
+    "title": "Transaction Roles",
+    "subtitle": "Players of the game",
+    "description": "Role a participant plays depend on the transaction type. Concept of private reserve banking model can be understood, when we visualize it as interactions that happen between five players involved in the game. Each participant in the model plays one of the role for a given transaction, depending on the type of transaction they make.",
+    "items": [
+      {
+        "title": "Stakeholder (The Depositor)",
+        "description": "When you add money into the reserve, you become a stake holder of the infinite reserve. Stakeholder holds a share of the total asset holdings of the reserve."
+      },
+      {
+        "title": "Borrower (The Spender)",
+        "description": "Participants who needs money, take a loan with an interest rate higher than the reserve growth rate. Borrower repays the interest and capital over a period of time."
+      },
+      {
+        "title": "Tax payer (A Commoner)",
+        "description": "Tax is levied on all the expenses a participant makes per month. Amount of tax varies by expense slab amounts."
+      },
+      {
+        "title": "Investor (The Value seeker)",
+        "description": "Participants of the system can enhance the growth rate of reserve by investing reserve holdings into other investments, that could carry higher risk."
+      },
+      {
+        "title": "Reserve (The Banker)",
+        "description": "All types of transactions in an infinite reserve model, is structured to increase the reserve value significantly over time. Reserve is owned collectively by all stakeholders."
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "alt": true,
+  "illustration": {
+    "title": "Stakeholder",
+    "description": "A stakeholder can increase or decrease the stake on infinite reserve, using Prudence unit transactions"
+  },
+  "details": {
+    "title": "Stakeholder, the depositor",
+    "subtitle": "Transactions of a stakeholder",
+    "description": "Stakeholders are like share holders of a business. All holdings of the reserve, belongs to the stakeholders. Inject more capital to increase your stake on the reserve.",
+    "items": [
+      {
+        "title": "Prudence unit",
+        "description": "Prudence is the unit in infinite reserve model, that is similar to a share/stock of a company. A participant gets prudence by depositing the price of a prudence unit. As the value of infinite reserve never depreciates, valuation of a prudence unit never reduces. Sum total value of the reserve is represented by all the prudence in circulation. Prudence is fungible."
+      },
+      {
+        "title": "Increase Stake",
+        "description": "Increase your stake by depositing cash to the reserve. Prudence is not market driven, and hence it's value is always fairly priced to match the exact underlying value of the reserve. You need at least one prudence unit before becoming a participant of the system."
+      },
+      {
+        "title": "Reduce Stake",
+        "description": "You reduce your stake on the reserve, by returning the prudence units back to the reserve in exchange for equivalent value in cash. Minimum prudence units necessary for a transaction is one unit, as the prudence unit cannot be subdivided."
+      }
+    ]
+  }
+}

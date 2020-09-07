@@ -1,0 +1,27 @@
+.call-to-action {
+  .oak-button {
+    padding: 0 34px;
+    border-radius: 50px;
+    color: var(--color-foreground-1) !important;
+    font-weight: 600 !important;
+    @media (max-width: 767px) {
+      padding: 0 26px;
+    }
+    .button-label-container {
+      height: 50px;
+      font-size: 16px;
+      column-gap: 20px;
+      text-transform: uppercase;
+      font-family: "Libre Baskerville", serif !important;
+      @media (max-width: 767px) {
+        height: 36px;
+        font-size: 14px;
+        column-gap: 15px;
+      }
+
+      i {
+        display: none;
+      }
+    }
+  }
+}

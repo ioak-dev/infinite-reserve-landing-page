@@ -1,0 +1,357 @@
+.player-two-illustration {
+  svg {
+    width: 100%;
+    height: auto;
+    max-height: 50vh;
+  }
+
+  .cls-1 {
+    fill: #d08b5b;
+  }
+
+  .cls-1,
+  .cls-2,
+  .cls-3,
+  .cls-4,
+  .cls-5 {
+    fill-rule: evenodd;
+  }
+
+  .cls-2 {
+    fill: #ec008c;
+  }
+
+  .cls-20,
+  .cls-3 {
+    fill: #fff;
+  }
+
+  .cls-5 {
+    fill: #9ddadb;
+  }
+
+  .cls-6 {
+    fill: #fc6868;
+  }
+
+  .cls-10,
+  .cls-11,
+  .cls-12,
+  .cls-13,
+  .cls-16,
+  .cls-17,
+  .cls-18,
+  .cls-6,
+  .cls-7,
+  .cls-8,
+  .cls-9 {
+    stroke: #231f20;
+  }
+
+  .cls-10,
+  .cls-11,
+  .cls-12,
+  .cls-13,
+  .cls-16,
+  .cls-17,
+  .cls-18,
+  .cls-21,
+  .cls-23,
+  .cls-25,
+  .cls-28,
+  .cls-6,
+  .cls-7,
+  .cls-8,
+  .cls-9 {
+    stroke-miterlimit: 10;
+  }
+
+  .cls-7 {
+    fill: #ea5656;
+  }
+
+  .cls-8 {
+    fill: #ff8383;
+  }
+
+  .cls-9 {
+    fill: #e95656;
+  }
+
+  .cls-10 {
+    fill: #f79a45;
+  }
+
+  .cls-10,
+  .cls-11,
+  .cls-12,
+  .cls-13 {
+    stroke-width: 0.44px;
+  }
+
+  .cls-11 {
+    fill: #f8ad43;
+  }
+
+  .cls-12,
+  .cls-14 {
+    fill: #f8d24a;
+  }
+
+  .cls-13,
+  .cls-17 {
+    fill: #f48a2a;
+  }
+
+  .cls-15 {
+    fill: #fadc72;
+  }
+
+  .cls-16,
+  .cls-18 {
+    fill: #f0a33e;
+  }
+
+  .cls-16 {
+    stroke-width: 0.44px;
+  }
+
+  .cls-17 {
+    stroke-width: 1.23px;
+  }
+
+  .cls-18 {
+    stroke-width: 1.23px;
+  }
+
+  .cls-19 {
+    opacity: 0.5;
+  }
+
+  .cls-21,
+  .cls-23,
+  .cls-25,
+  .cls-28 {
+    fill: none;
+  }
+
+  .cls-21,
+  .cls-23 {
+    stroke: #fbb040;
+  }
+
+  .cls-21 {
+    stroke-width: 3.7px;
+  }
+
+  .cls-22 {
+    fill: #00a14b;
+  }
+
+  .cls-23 {
+    stroke-width: 3.7px;
+  }
+
+  .cls-24 {
+    opacity: 0.65;
+  }
+
+  .cls-25,
+  .cls-28 {
+    stroke: #ed1c24;
+  }
+
+  .cls-25 {
+    stroke-width: 3.7px;
+  }
+
+  .cls-26 {
+    fill: #d1ddd6;
+  }
+
+  .cls-27 {
+    fill: #e8c66c;
+    opacity: 0.22;
+  }
+
+  .cls-28 {
+    stroke-width: 3.7px;
+  }
+
+  .cls-29 {
+    fill: #ed1c24;
+  }
+
+  #iborrower-currency-1,
+  #iborrower-currency-2 {
+    position: absolute;
+    animation-fill-mode: both;
+    animation-timing-function: ease;
+    animation-iteration-count: infinite;
+    g {
+      position: absolute;
+      animation-fill-mode: both;
+      animation-timing-function: ease;
+      transform-box: fill-box;
+      transform-origin: center;
+      animation-direction: alternate;
+      animation-iteration-count: infinite;
+      animation-name: currencyAnimateRotate;
+      animation-duration: 6s;
+    }
+  }
+
+  #iborrower-currency-1 {
+    animation-duration: 5s;
+    animation-name: currency1Animate;
+  }
+
+  #iborrower-currency-2 {
+    animation-duration: 5s;
+    animation-name: currency2Animate;
+  }
+
+  #iborrower-liability-1,
+  #iborrower-liability-2,
+  #iborrower-pledged-1,
+  #iborrower-pledged-2,
+  #iborrower-available-1,
+  #iborrower-available-2 {
+    animation-fill-mode: forwards;
+    animation-timing-function: ease;
+    animation-iteration-count: infinite;
+  }
+  #iborrower-pledged-1,
+  #iborrower-pledged-2,
+  #iborrower-available-1,
+  #iborrower-available-2 {
+    animation-fill-mode: both;
+  }
+  #iborrower-liability-1 {
+    animation-duration: 5s;
+    animation-name: liability1Animate;
+  }
+  #iborrower-liability-2 {
+    animation-duration: 5s;
+    animation-name: liability2Animate;
+  }
+  #iborrower-pledged-1 {
+    animation-duration: 5s;
+    animation-name: pledged1Animate;
+  }
+  #iborrower-pledged-2 {
+    animation-duration: 5s;
+    animation-name: pledged2Animate;
+  }
+  #iborrower-available-1 {
+    animation-duration: 5s;
+    animation-name: available1Animate;
+  }
+  #iborrower-available-2 {
+    animation-duration: 5s;
+    animation-name: available2Animate;
+  }
+}
+
+@keyframes currencyAnimateRotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes currency1Animate {
+  0% {
+    transform: translateX(0%) translateY(0%);
+    opacity: 1;
+  }
+  100% {
+    transform: translateX(58%) translateY(-5%);
+    opacity: 0.2;
+  }
+}
+
+@keyframes currency2Animate {
+  0% {
+    transform: translateX(0%) translateY(0%);
+    opacity: 0.2;
+  }
+  100% {
+    transform: translateX(-58%) translateY(-50%);
+    opacity: 1;
+  }
+}
+
+@keyframes liability1Animate {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@keyframes liability2Animate {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes pledged1Animate {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@keyframes pledged2Animate {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes available1Animate {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes available2Animate {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
